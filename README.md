@@ -1,5 +1,6 @@
 # Media_RecommenderSystem
 Content-based Algorithm
+20220320
 
 In the data explosive generation, algorithmic recommender systems have become pervasive to fulfill users’ demands in the public domain. However, personalized public services represent a significant overlap with multi-stakeholder recommender systems thus it requires value- sensitive design according to a set of explicit public values. The study aims to design a content-based recommender system that can operationalize the values of Television New Zealand. The research employs Natural Language Processing techniques and machine learning classification to perform topic modeling based on movie content. Eventually, design an interface using Streamlit framework to embed values and reach a balance between multi-stakeholders.
 
